@@ -1,0 +1,14 @@
+{
+  "name": "electron-starter",
+  "productName": "electron-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main.js",
+  "author": {
+    "email": "eccorley@gmail.com",
+    "url": "https://github.com/eccorley"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
